@@ -23,6 +23,7 @@ Passos para Execução 🛠️
 Clone ou Baixe o Repositório:
 
 Clone o repositório usando Git:
+
 git clone <URL_do_repositório>
 
 
@@ -30,4 +31,5 @@ Ou baixe o arquivo ZIP e extraia-o.
 Navegue até a Pasta do Projeto: Use o terminal para ir até a pasta onde o arquivo criptografia.py está localizado.
 
 Execute o Programa: No terminal, digite o seguinte comando para iniciar o programa:
+
 python criptografia.py
